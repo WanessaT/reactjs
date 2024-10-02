@@ -1,6 +1,6 @@
 
 import styled from "styled-components";
-import { theme } from "../globals/Theme";
+import { theme } from "../components/globals/Theme";
 
 export const ParagraphHead = styled.p`
     font-size: ${({ theme }) => theme.size.xs};

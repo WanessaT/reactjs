@@ -1,5 +1,5 @@
 
-import { Wrapper } from "./components/styles/Wrapper.style"
+import { Wrapper } from "./styled-components/Wrapper.style"
 import { Nav } from "./components/Nav"
 import { Header } from "./components/Header"
 import { BannerProg } from "./components/BannerProg"

@@ -1,6 +1,6 @@
 
 import styled from "styled-components";
-import { theme } from "../globals/Theme";
+import { theme } from "../components/globals/Theme";
 
 export const HeaderStyle = styled.div`
     width: 100vw;

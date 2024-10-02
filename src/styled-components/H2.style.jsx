@@ -1,6 +1,6 @@
 
 import styled from "styled-components";
-import { theme } from "../globals/Theme";
+import { theme } from "../components/globals/Theme";
 
 export const H2 = styled.h2`
     font-size: ${({ theme }) => theme.size.s};
